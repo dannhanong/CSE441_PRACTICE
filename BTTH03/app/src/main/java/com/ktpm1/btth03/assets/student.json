@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "fullName": {
+      "first": "Nguyễn",
+      "midd": "Văn",
+      "last": "A"
+    },
+    "gpa": 3.5,
+    "avatar": ""
+  },
+  {
+    "id": "2",
+    "fullName": {
+      "first": "Nguyễn",
+      "midd": "Văn",
+      "last": "B"
+    },
+    "gpa": 3.6,
+    "avatar": ""
+  }
+]
